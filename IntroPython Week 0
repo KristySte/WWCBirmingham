@@ -1,0 +1,47 @@
+Install Python 2.7 
+Install Sublime
+Confirm you have Python by going to command line and typing in Python. 
+If you recieve an error you may need to set the Path for it Python
+
+
+Note: We will review over this again Tuesday for those who didn't show up or need help catching up
+
+
+Week 0 Objectives:
+Install IDE and Python
+Print Statements
+Variables
+Commenting
+Print Formatting
+User Input
+
+
+Practice Exercises
+Make sure to comment your code as needed. If you are stuck, talk to your fellow coders on Gitter, Google hangout or come to the next 
+meet up and we will help you.
+
+Create a small program that will print out your name age and what city you live in and where you were born. Have the program ask if 
+your born where you live. If the answer is no, prompt a user to tell you where they were born. Elsewise reprint the previous statement
+including the where he was born
+
+Ex.
+My name is ____. I am ____ years old and live in ______.
+Where you born here?
+No
+Where were you born?
+______
+
+My name is ____. I am ____ years old and live in ______. But I was born _____
+
+OR 
+
+My name is ____. I am ____ years old and live in ______.
+Where you born here?
+Yes
+My name is ____. I am ____ years old and I was born and now live in ________.
+
+
+
+
+
+
