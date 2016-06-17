@@ -1,4 +1,4 @@
-Install Python 2.7 
+Install Python 2.7 (Go here for setup instructions specific to your OS: http://learnpythonthehardway.org/book/ex0.html)
 Install Sublime
 Confirm you have Python by going to command line and typing in Python. 
 If you recieve an error you may need to set the Path for it Python
@@ -20,9 +20,9 @@ Practice Exercises
 Make sure to comment your code as needed. If you are stuck, talk to your fellow coders on Gitter, Google hangout or come to the next 
 meet up and we will help you.
 
-Create a small program that will print out your name age and what city you live in and where you were born. Have the program ask if 
-your born where you live. If the answer is no, prompt a user to tell you where they were born. Elsewise reprint the previous statement
-including the where he was born
+Create a small program that will print out your name, age, what city you live in, and where you were born. Have the program ask if 
+you were born where you currently live. If the answer is no, prompt the user to tell you where they were born. Otherwise, reprint 
+the previous statement, but now including that they were born where they currently live.
 
 Ex.
 My name is ____. I am ____ years old and live in ______.
