@@ -31,7 +31,7 @@ print "Player 2 move: ", player2_move
 if player1_move == player2_move:
     print "Tie!"
 #if player one combination works    
-elif player1_move + player2_move:
+elif player1_move + player2_move in win_moves:
     print"Player 1 wins!"
 else:
 #if neither tie not player 1's combination comes up.
